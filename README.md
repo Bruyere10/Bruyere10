@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá! Eu sou o Bruyere Santos de Faria 👋
 
-<!--
-**Bruyere10/Bruyere10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvimento web • Automação • Análise de dados
 
-Here are some ideas to get you started:
+Tenho 20 anos, curso **Análise e Desenvolvimento de Sistemas na Universidade UNA** e trabalho com **programação na Stellantis**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou curioso por natureza e gosto de entender como as coisas funcionam — da estrutura de uma aplicação aos fluxos que conectam sistemas e dados. Busco transformar esse conhecimento em soluções práticas.
+
+## 💻 Minha experiência
+
+- **Desenvolvimento web de ponta a ponta:** desenvolvi e coloquei em produção um site, sendo responsável pela estrutura, pelos fluxos, pela API e pelo servidor.
+- **Análise de dados e BI:** desenvolvi soluções de Business Intelligence utilizadas internamente na Fiat.
+- **Automação:** tenho conhecimento em ferramentas para automatizar tarefas e integrar processos.
+- **Back-end e front-end:** tenho conhecimento nas duas áreas, com uma visão integrada do desenvolvimento de aplicações.
+
+## 🛠️ Tecnologias e ferramentas
+
+**Programação e dados**
+- JavaScript
+- Python
+- SQL
+- Databricks
+
+**Automação**
+- Google Apps Script
+- Power Automate
+
+**Áreas de conhecimento**
+- Desenvolvimento front-end e back-end
+- APIs e integração de sistemas
+- Business Intelligence
+
+## 🌱 Um pouco sobre mim
+
+Sou uma pessoa curiosa, calma, paciente e versátil. Gosto de aprender, explorar diferentes áreas da tecnologia e usar minha comunicação e capacidade de persuasão para contribuir com ideias e soluções.
+
+## 🌎 Idiomas
+
+- **Inglês:** avançado
+- **Espanhol:** básico
+
+---
+
+Sempre aprendendo e buscando novas formas de transformar ideias em soluções.
